@@ -1,2 +1,10 @@
 -Gigithub ikinci ilk deneme 
+<<<<<<< HEAD
 -gitGithub ikinci gün ikinci deneme
+=======
+-Gigithub ikincigün ikinci deneme 
+-Gigithub ikincigün ikinci deneme
+
+Gigithub ikincigün hakkı deneme
+>>>>>>> hakki
+Gigithub ikincigün hakkı 2. deneme
